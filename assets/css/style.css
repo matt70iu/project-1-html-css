@@ -12,7 +12,7 @@ body {
     top:0;
     left:0;
     bottom:0;
-    background-color: #111;
+    background-color: rgb(185, 52, 52);
     overflow-x: hidden;
     padding-top: 20px;
 }
@@ -21,7 +21,7 @@ body {
     padding: 6px 8px 6px 16px;
     text-decoration: none;
     font-size: 25px;
-    color: #818181;
+    color: #111111;
     display: block;
 
 }
@@ -40,4 +40,3 @@ body {
 
 
 
-}
