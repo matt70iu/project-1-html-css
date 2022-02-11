@@ -1,62 +1,43 @@
  /*code written with the assistance of https://www.w3schools.com/howto/howto_css_style_header.asp*/
 
  .header {
-     padding: 5px;
+     padding-top: 20px;
      text-align: center;
      background: rgb(185, 52, 52);
      color: white;
      font-size: 30px;
-     
+
 
 
  }
+ /*code written with assistance of https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp*/
 
- h1, h2 {
-    text-align: center;
-}
+ body {
+     font-family: lucida handwriting;
+     background-color: #E8DCB8
+ }
 
+ .sidenav {
+     width: 160px;
+     position: fixed;
+     z-index: 1;
+     top: 0;
+     left: 0;
+     bottom: 0;
+     background-color: rgb(185, 52, 52);
+     overflow-x: hidden;
+     padding-top: 20px;
+ }
 
+ .sidenav a {
+     padding: 6px 8px 6px 16px;
+     text-decoration: none;
+     font-size: 25px;
+     color: #111111;
+     display: block;
 
+ }
 
-/*code written with assistance of https://www.w3schools.com/howto/howto_css_fixed_sidebar.asp*/
-
-body {
-    font-family: lucida handwriting;
-
-}
-
-.sidenav {
-    width: 160px;
-    position: fixed;
-    z-index: 1;
-    top:0;
-    left:0;
-    bottom:0;
-    background-color: rgb(185, 52, 52);
-    overflow-x: hidden;
-    padding-top: 20px;
-}
-
-.sidenav a {
-    padding: 6px 8px 6px 16px;
-    text-decoration: none;
-    font-size: 25px;
-    color: #111111;
-    display: block;
-
-}
-
-.sidenav a:hover {
-    color: #f1f1f1;
-}
-
-
-
-
-
-
-
-    
-
-
-
+ .sidenav a:hover {
+     color: #f1f1f1;
+ }
