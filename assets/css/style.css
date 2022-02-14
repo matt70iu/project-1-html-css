@@ -1,12 +1,45 @@
+/*google fonts import*/
 @import url('https://fonts.googleapis.com/css2?family=Redressed&family=Rowdies&display=swap');
 
-h1  {
-    font-family: 'Redressed', cursive;
-    text-align: center;
-    
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
+body {
+    font-family: 'Redressed', cursive;
+
+
+}
+
+/*header and nav bar styling*/
+
+.head-1 {
+    padding: 30;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
 
 
 
 
+    
+
+    
+
+    
+    
+
+
+
+
+
+
+    
+    
+   
+
+
+}
