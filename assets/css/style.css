@@ -9,18 +9,24 @@
 
 body {
     font-family: 'Redressed', cursive;
+    color:#000;
 
 
 }
 
-/*header and nav bar styling*/
+/*header and logo styling*/
 
-.head-1 {
-    padding: 30;
-    text-align: center;
-    background: #1abc9c;
-    color: white;
-    font-size: 30px;
+h1, h2 {
+    font-family: 'Redressed', cursive;
+    letter-spacing: 5px;
+}
+
+#header-1 {
+    float: left;
+    font-size: 250%;
+}
+
+
 
 
 
@@ -42,4 +48,3 @@ body {
    
 
 
-}
