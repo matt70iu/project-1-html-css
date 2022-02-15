@@ -26,6 +26,35 @@ h1, h2 {
     font-size: 250%;
 }
 
+/* Navigation links*/
+
+#menu, #header1 {
+    line-height: 75px;
+}
+
+#menu {
+    font-size: 120%;
+    letter-spacing: 5px;
+    float:right
+}
+
+#menu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+#menu a {
+    text-decoration: none;
+}
+
+#menu a:hover {
+    border-bottom: 2px solid #000;
+}
+
+.on-page {
+    border-bottom: 2px solid #000;
+}
 
 
 
