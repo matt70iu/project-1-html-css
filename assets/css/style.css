@@ -56,6 +56,21 @@ h1, h2 {
     border-bottom: 2px solid #000;
 }
 
+/*hero-image*/
+
+#hero-outer {
+    height: 600px;
+    width: 100%;
+    clear: both;
+}
+
+
+#hero-image-2 {
+    height: 600px;
+    width: 100%;
+    background: url(../images/hero-image-2.jpg) no-repeat center center;
+}
+
 
 
 
