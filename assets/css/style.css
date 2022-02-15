@@ -19,6 +19,7 @@ body {
 h1, h2 {
     font-family: 'Redressed', cursive;
     letter-spacing: 5px;
+    margin-left: 20px;
 }
 
 #header-1 {
@@ -95,6 +96,37 @@ h1, h2 {
 
     position: absolute;
 }
+
+/*check boxes */
+
+#check-boxs {
+    height: 600px;
+}
+
+#professional {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+    background-color: blue;
+}
+
+#Competative {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+    background-color: red;
+}
+
+
+#job {
+    padding-top: 30px;
+    width: 33%;
+    margin: 0 auto;
+    background-color: green;
+
+}
+
+
 
 
 
