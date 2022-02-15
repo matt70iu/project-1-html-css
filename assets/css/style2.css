@@ -1,0 +1,21 @@
+/*google fonts import*/
+@import url('https://fonts.googleapis.com/css2?family=Redressed&family=Rowdies&display=swap');
+
+
+
+
+.head-1 {
+    display:flex;
+    flex-wrap: wrap;
+    gap:1rem;
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+
+}
+
+.head-1 li {
+    justify-content: flex-end;
+
+}
